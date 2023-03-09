@@ -1,5 +1,5 @@
 form {
-	border: 5px solid #f8e092;
+	border: 5px solid #9dc66f;
     }
     
     input[type=text], input[type=password] {
@@ -12,13 +12,13 @@ form {
     }
     
     button {
-	background-color: #dbfadc;
-	color: rgb(59, 47, 47);
+	background-color: #4f5292;
+	color: rgb(255, 255, 255);
 	padding: 14px 20px;
 	margin: 8px 0;
 	border: double;
 	cursor: pointer;
-	width: 100%;
+	width: 10%;
     }
     
     button:hover {
